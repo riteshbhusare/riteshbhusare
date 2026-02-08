@@ -13,15 +13,17 @@
   <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20DevOps-0D1117?style=for-the-badge&logo=amazonaws&logoColor=orange"/>
 </p>
 
----
+<p align="center">
+  <strong>Ritesh Bhusare</strong><br/>
+  <sub>Cloud & DevOps Engineer · Automation · Linux · Containers</sub>
+</p>
 
-## 👋 Hi, I'm Ritesh Bhusare
-🚀 Cloud Computing & DevOps Enthusiast  
-⚡ Automation • Linux • Docker • AWS  
-🎓 Student | Builder | Problem Solver  
+<p align="center">
+  Building scalable systems, automating workflows,<br/>
+  and learning by shipping real infrastructure.
+</p>
 
----
-
+<hr/>
 ## ⚙️ Tech Stack
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
