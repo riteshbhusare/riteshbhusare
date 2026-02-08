@@ -1,4 +1,35 @@
-<!-- ================= HERO SECTION ================= -->
+<!-- CAPSULE HEADER -->
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ritesh%20Bhusare&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Cloud%20%7C%20DevOps%20%7C%20Automation%20Engineer&descAlignY=52&descAlign=50"
+/>
+
+<!-- HERO VISUAL -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="850"/>
+</p>
+
+<!-- TYPING TAGLINE -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Automating+Tomorrow%2C+Today.;Building+Intelligent+Infrastructure.;Cloud-Native+%26+DevOps+Engineering" />
+</p>
+
+<!-- SUBTLE DIVIDER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%" />
+</p>
+
+<!-- PROFILE SUMMARY -->
+<p align="center">
+  <strong>Ritesh Bhusare</strong><br/>
+  <sub>Cloud & DevOps Engineer · Automation · Linux · Containers</sub>
+</p>
+
+<p align="center">
+  Building scalable systems, automating workflows,<br/>
+  and learning by shipping real infrastructure.
+</p>
+
+---<!-- ================= HERO SECTION ================= -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800"/>
 </p>
@@ -13,17 +44,6 @@
   <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20DevOps-0D1117?style=for-the-badge&logo=amazonaws&logoColor=orange"/>
 </p>
 
-<p align="center">
-  <strong>Ritesh Bhusare</strong><br/>
-  <sub>Cloud & DevOps Engineer · Automation · Linux · Containers</sub>
-</p>
-
-<p align="center">
-  Building scalable systems, automating workflows,<br/>
-  and learning by shipping real infrastructure.
-</p>
-
-<hr/>
 ## ⚙️ Tech Stack
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
