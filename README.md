@@ -13,17 +13,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Automating+Tomorrow%2C+Today.;Building+Intelligent+Infrastructure.;Cloud-Native+%26+DevOps+Engineering" />
 </p>
 
-<!-- SUBTLE DIVIDER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%" />
-</p>
-
 <!-- PROFILE SUMMARY -->
-<p align="center">
-  <strong>Ritesh Bhusare</strong><br/>
-  <sub>Cloud & DevOps Engineer · Automation · Linux · Containers</sub>
-</p>
-
 <p align="center">
   Building scalable systems, automating workflows,<br/>
   and learning by shipping real infrastructure.
